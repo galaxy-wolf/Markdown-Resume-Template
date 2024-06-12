@@ -50,6 +50,7 @@ Eurographics Symposium on Rendering 2016.
 ## 技能
 * 熟悉c++， python, 使用过 C#，lua， bash, cmd.
 * 使用过Unity， UE引擎。
+* 使用过3ds Max，Blender 等DCC 软件，并具备部分脚本开发能力。
 * 熟悉基本的图形渲染管线。
 * 熟悉基础的游戏动画相关技术以及美术制作流程。
 * 熟悉git，以及使用git制作工具。
